@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-8 {
+        fill: none;
+      }
+
+      .cls-1, .cls-8 {
+        stroke: #fff;
+      }
+
+      .cls-1 {
+        stroke-width: 2.51px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #cecece;
+        stroke-width: 1.87px;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-7 {
+        fill: #f3f3f3;
+      }
+
+      .cls-8 {
+        stroke-width: 2px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="-1" x2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b6b6b6"/>
+      <stop offset="0.002" stop-color="#b6b6b6"/>
+      <stop offset="1" stop-color="#565656"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="463.406" y1="672.094" x2="463.406" y2="277.875" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e0e0e"/>
+      <stop offset="1" stop-color="#a3a4a4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="282.422" y1="761.531" x2="282.422" y2="588.781" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a5a5a"/>
+      <stop offset="1" stop-color="#a7a7a7"/>
+    </linearGradient>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <path class="cls-1" d="M450,828"/>
+    <path class="cls-2" d="M799.969,370.55l31.858,165.995"/>
+    <path class="cls-3" d="M412,712"/>
+    <path class="cls-4" d="M625,313"/>
+    <g>
+      <path class="cls-5" d="M492,626l-57.173,46.107,2.032-394.239H489.7Z"/>
+      <path class="cls-6" d="M193,590.821l71.126-2.032,107.7,172.733H294.608Z"/>
+      <path class="cls-7" d="M298.285,762.443l73.545-.921L491.728,627.4V546.113Z"/>
+      <path class="cls-8" d="M434.827,277.868L436.859,223H638.043l89.415,54.868H434.827Z"/>
+      <path id="Shape_6_copy" data-name="Shape 6 copy" class="cls-2" d="M587.239,509.535l-87.383-54.869h176.8l65.029,54.869H587.239Z"/>
+      <path id="Shape_6_copy_2" data-name="Shape 6 copy 2" class="cls-8" d="M499.856,765.587V710.719l229.634,2.032-50.8,52.836H499.856Z"/>
+    </g>
+  </g>
+</svg>

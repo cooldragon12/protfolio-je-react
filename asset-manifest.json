@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/protfolio-je-react/static/css/main.b31f42c8.chunk.css",
+    "main.js": "/protfolio-je-react/static/js/main.4e6a9071.chunk.js",
+    "main.js.map": "/protfolio-je-react/static/js/main.4e6a9071.chunk.js.map",
+    "runtime-main.js": "/protfolio-je-react/static/js/runtime-main.70046d50.js",
+    "runtime-main.js.map": "/protfolio-je-react/static/js/runtime-main.70046d50.js.map",
+    "static/js/2.842f8c8e.chunk.js": "/protfolio-je-react/static/js/2.842f8c8e.chunk.js",
+    "static/js/2.842f8c8e.chunk.js.map": "/protfolio-je-react/static/js/2.842f8c8e.chunk.js.map",
+    "static/js/3.2251f74a.chunk.js": "/protfolio-je-react/static/js/3.2251f74a.chunk.js",
+    "static/js/3.2251f74a.chunk.js.map": "/protfolio-je-react/static/js/3.2251f74a.chunk.js.map",
+    "index.html": "/protfolio-je-react/index.html",
+    "static/css/main.b31f42c8.chunk.css.map": "/protfolio-je-react/static/css/main.b31f42c8.chunk.css.map",
+    "static/js/2.842f8c8e.chunk.js.LICENSE.txt": "/protfolio-je-react/static/js/2.842f8c8e.chunk.js.LICENSE.txt",
+    "static/media/ED.3c454916.png": "/protfolio-je-react/static/media/ED.3c454916.png",
+    "static/media/Experimeriment Bot.fe2edddd.png": "/protfolio-je-react/static/media/Experimeriment Bot.fe2edddd.png",
+    "static/media/IMG_20200312_174314.08bc705e.jpg": "/protfolio-je-react/static/media/IMG_20200312_174314.08bc705e.jpg",
+    "static/media/IMG_20200411_081428.05dff8ea.jpg": "/protfolio-je-react/static/media/IMG_20200411_081428.05dff8ea.jpg",
+    "static/media/IMG_20200706_081429.383ea4b6.jpg": "/protfolio-je-react/static/media/IMG_20200706_081429.383ea4b6.jpg",
+    "static/media/IMG_20201003_122318.3aadc4a6.jpg": "/protfolio-je-react/static/media/IMG_20201003_122318.3aadc4a6.jpg",
+    "static/media/IMG_4672.3a93cce3.jpg": "/protfolio-je-react/static/media/IMG_4672.3a93cce3.jpg",
+    "static/media/IMG_5225.50c4bbfc.jpg": "/protfolio-je-react/static/media/IMG_5225.50c4bbfc.jpg",
+    "static/media/JE_Logo.53808df6.svg": "/protfolio-je-react/static/media/JE_Logo.53808df6.svg",
+    "static/media/facebook.9037acf0.svg": "/protfolio-je-react/static/media/facebook.9037acf0.svg",
+    "static/media/fleuriste.94f9511c.png": "/protfolio-je-react/static/media/fleuriste.94f9511c.png",
+    "static/media/github-sign.51a7fdf6.svg": "/protfolio-je-react/static/media/github-sign.51a7fdf6.svg",
+    "static/media/instagram.f8f6e905.svg": "/protfolio-je-react/static/media/instagram.f8f6e905.svg",
+    "static/media/twitter.445b3ab6.svg": "/protfolio-je-react/static/media/twitter.445b3ab6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70046d50.js",
+    "static/js/2.842f8c8e.chunk.js",
+    "static/css/main.b31f42c8.chunk.css",
+    "static/js/main.4e6a9071.chunk.js"
+  ]
+}
