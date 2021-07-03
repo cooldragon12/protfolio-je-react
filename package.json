@@ -1,7 +1,7 @@
 {
   "homepage": "http://cooldragon12.github.io/protfolio-je-react",
   "name": "portfolio-je-react",
-  "version": "0.1.01",
+  "version": "0.1.12",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
