@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './style.css';
 import reportWebVitals from './reportWebVitals';
+import {Hamburger} from './utilityComponents';
+import {Page2, Page1} from './appFront'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Hamburger/>
+    <Page1 />
+    <Page2 />
   </React.StrictMode>,
   document.getElementById('root')
 );
