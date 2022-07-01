@@ -1,0 +1,149 @@
+// Card
+.Card-enter-done{
+    opacity: 1;
+    transform: translateY(0px);
+  }
+  .Card-enter{
+    opacity: 0;
+    transform: translateY(-250px);
+  }
+  .Card-enter-active:nth-child(1){
+    opacity: 1;
+    transform: translateY(0px);
+    transition: opacity .2s .05s, transform .4s .05s;
+  }
+  .Card-enter-active:nth-child(2){
+    opacity: 1;
+    transform: translateY(0px);
+    transition: opacity .2s .1s, transform .4s .1s;
+  }
+  .Card-enter-active:nth-child(3){
+    opacity: 1;
+    transform: translateY(0px);
+    transition: opacity .2s .15s, transform .4s .15s;
+  }
+  .Card-exit{
+    opacity: 1;
+    transform: translateY(0px);
+  }
+  .Card-exit-active{
+    opacity: 0;
+    transform: translateY(-250px);
+    transition: opacity .2s, transform .4s;
+  }
+// title-cont
+.title-cols-enter-done{
+    opacity: 1;
+
+}
+.title-cols-enter{
+    opacity: 0;
+    
+}
+.title-cols-enter-active{
+    opacity: 1;
+    transition: opacity .2s;
+}
+.title-cols-exit{
+    opacity: 1;
+
+}
+.title-cols-exit-active{
+    opacity: 0;
+    transition: opacity .2s;
+}
+.title-cols-exit-done{
+  opacity:0;
+}
+// transition: transform .55s ease-in-out 1s;
+
+// Nav Cont
+// for main
+.nav-cont-enter-done{
+  width: 100%;
+  background-color: #42424287;
+  .nav{
+    opacity: 1;
+    visibility: visible;
+  }
+}
+.nav-cont-enter{
+    width: 0%;
+    background-color: #92929200;
+
+    .nav{
+      opacity: 0;
+      visibility: hidden;
+    }
+}
+.nav-cont-enter-active{
+  
+  transition: background-color .2s, width .4s;
+  width: 100%;
+  background-color: #42424287;
+  .nav{
+    opacity: 1;
+    visibility: visible;
+  }
+}
+.nav-cont-exit{
+  width: 100%;
+  background-color: #42424287;
+
+  .nav{
+    opacity: 1;
+    visibility: visible;
+  }
+}
+.nav-cont-exit-active{
+  width: 0%;
+  background-color: #92929200;
+  .nav{
+    opacity: 0;
+    visibility: hidden;
+  }
+  transition: background-color .2s, width .4s;
+}
+
+// Nav-cont After & Before
+// # Finished
+.nav-cont-enter-done::before{
+  transform: rotate(45deg) translate(30vw, -100vh);
+}
+.nav-cont-enter-done::after{
+  transform: rotate(45deg) translate(-90vw, -100vh);
+}
+// initial
+.nav-cont-enter::before{
+  transform: rotate(45deg) translate(25vw, -400vh);
+}
+.nav-cont-enter::after{
+  transform: rotate(45deg) translate(-55vw, -400vh);
+}
+// transition: transform .55s ease-in-out ;
+.nav-cont-enter-active::before{
+  transform: rotate(45deg) translate(30vw, -100vh);
+  transition: transform .55s ease-in-out 0.3s;
+}
+.nav-cont-enter-active::after{
+  transform: rotate(45deg) translate(-90vw, -100vh);
+  transition: transform .55s ease-in-out 0.2s;
+}
+.nav-cont-exit::before{
+  transform: rotate(45deg) translate(30vw, -100vh);
+  
+}
+.nav-cont-exit::after{
+  transform: rotate(45deg) translate(-90vw, -100vh);
+  
+}
+.nav-cont-exit-active::before{
+  transition: transform .55s ease-in-out 0.2s;
+  transform: rotate(45deg) translate(25vw, -400vh);
+  
+}
+.nav-cont-exit-active::after{
+  transition: transform .55s ease-in-out;
+  transform: rotate(45deg) translate(-55vw, -400vh);
+  
+}
